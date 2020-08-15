@@ -9,7 +9,8 @@
 ### 选题
 ### 制定检索策略，检索资料，选用合适的[[数据库]]
 ### 确定纳入和排除标准
-#### [[https://wkretype.bdimg.com/retype/zoom/c0e4c646c850ad02de804157?pn=2&o=jpg_6&md5sum=ae63fcb1661a3a0ae2aa7034f2246175&sign=8599d44ca2&png=168532-200993&jpg=93842-202635][筛选过程]]
+### 基本信息:题目、原始研究作者、发表年份等
+### [[https://wkretype.bdimg.com/retype/zoom/c0e4c646c850ad02de804157?pn=2&o=jpg_6&md5sum=ae63fcb1661a3a0ae2aa7034f2246175&sign=8599d44ca2&png=168532-200993&jpg=93842-202635][筛选过程]]
 ### 文献质量评估和数据提取
 #### 特征表
 #### 质量评价表
