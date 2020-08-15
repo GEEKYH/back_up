@@ -6,4 +6,4 @@
    :PROPERTIES:
    :CUSTOM_ID: 5f376747-0456-4351-a1f0-9dc2fc948e67
    :END:
-### ((5f376747-0456-4351-a1f0-9dc2fc948e67))
+#### [[https://logseq.com/static/img/logo.png][test]]
