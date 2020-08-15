@@ -15,7 +15,12 @@
 ** [[test]]
 ** [[another_test_]]
 * Aug 15th, 2020
+** ((5f373ddd-c4f0-4df0-bd3d-16c21765d1cb)) 
+疑问完成
 ** #+BEGIN_QUOTE
+   :PROPERTIES:
+   :CUSTOM_ID: 5f373ddd-c4f0-4df0-bd3d-16c21765d1cb
+   :END:
 这是一个疑问
 #+END_QUOTE
 * Aug 16th, 2020
