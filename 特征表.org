@@ -1,0 +1,1 @@
+** 统计常识: Mean, SD, SE, P, CI, OR, RR, HR,特异度，敏感度等。
