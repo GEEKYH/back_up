@@ -3,7 +3,4 @@
 ### 选题
 ### 制定检索策略，检索资料，选用合适的[[数据库]]
 ### 确定纳入和排除标准，要进行
-   :PROPERTIES:
-   :CUSTOM_ID: 5f376747-0456-4351-a1f0-9dc2fc948e67
-   :END:
-### [[https://logseq.com/static/img/logo.png][test]]
+### [[https://wkretype.bdimg.com/retype/zoom/c0e4c646c850ad02de804157?pn=2&o=jpg_6&md5sum=ae63fcb1661a3a0ae2aa7034f2246175&sign=8599d44ca2&png=168532-200993&jpg=93842-202635][test]]
