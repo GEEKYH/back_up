@@ -2,8 +2,8 @@
 ## 步骤
 ### 选题
 ### 制定检索策略，检索资料，选用合适的[[数据库]]
-### 确定纳入和排除标准，要进行 #筛选
+### 确定纳入和排除标准，要进行
    :PROPERTIES:
    :CUSTOM_ID: 5f376747-0456-4351-a1f0-9dc2fc948e67
    :END:
-#### [[https://logseq.com/static/img/logo.png][test]]
+### [[https://logseq.com/static/img/logo.png][test]]
