@@ -23,7 +23,8 @@
 #### 纳入研究的合格数据:研究对象特征、干预措施、结局指标、研究设计等
 #### 方法学部分:设计方案、研究期限、随机方案、[[随机对照实验.]]、其他偏倚等
 #### 其他信息:资助来源、关键性结论、混杂因素和是否校正
-#### [[https://wkretype.bdimg.com/retype/zoom/c0e4c646c850ad02de804157?pn=2&o=jpg_6&md5sum=ae63fcb1661a3a0ae2aa7034f2246175&sign=8599d44ca2&png=168532-200993&jpg=93842-202635][筛选过程]]
+#### 筛选过程
+##### [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30c2020_08_16_QQ%E6%88%AA%E5%9B%BE20200816165429.png?Expires=4751168148&Signature=H4CK2JqXseZGbX2OBU5Aw~BQaPu1zgX9~x9QSDlqV9eGiydB8aWxRMIL29U5QK6h62FX7r~cxXFpN5p2Av4giCby23oQWFLulw3x-bWSLX7-AEvs9Iph6qthEnlD9oi3Kja-NsSlD5jLGdLU4l3l6EIOfvosvxf3m9EiXEvjhZE58q481dUbvwHkfogl-nInt6pvIPMNmbLBc7EAMyihoGHeu7wumZN3v56oOg4h-j~ipzJUyOT7y0s-BNYDClL416M0BCPC6KZf7945TzcloDk7Qe3y2UEKVe2IuRYoMFt4CmGJOsbX5lAWBgWekZlYEbQvQQIZRm8IbdR-1MU5Ag__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_16_QQ截图20200816165429.png]]
 ### 文献质量评估和数据提取
 #### [[特征表]]
 #### 质量评价表
