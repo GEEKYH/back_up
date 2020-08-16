@@ -1,4 +1,4 @@
 ** 所谓文献综述是在对某一特定学科或专题的文献进行^^收集、整理、分析^^与研究的基础上，撰写出的关于学科或某专题的文献报告，它对相关文献群进行分析研究，概括出该学科或专题的研究现状、动态及未来发展趋势，从而反映相关领域的新动态、新原理、新技术。
 ** 综述、系统性综述、meta分析的区别和联系
 *** [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30c2020_08_16_v2-dd7c006d41d45163eed3b29dad06c68a_720w.jpg?Expires=4751150552&Signature=N3usPpfL9R6pkb~L6arNsFxxaBmZkwfZgiO59Da2UJSlU4YSuZvf62u8glRk2Rv8DSOErD7oBwzoyQVZda0ZgHHIUZzV0xHDcwZl92UK92kiTJmk5ahQQELi9vAOmUkYQXo6pd5ZkPhB~OVseTLYUI9QYdUGBa9mMtC9TOQp1BqpRI2Yy6ZqUdVvA674W57NSeZGz1rKJxkRl~wibklBdiUffkWdd7xQ~dZQ1NFIogo6KKnMgu1qLPgNulByGoaHKCBJVC~LRoU6RNAzQdcn-7cQTmT91wqlD5JXWRRvSG~Kr8Rd7aH90uV6K00pgyR63shJUHejZ6x6FZjIGoVLXg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_16_v2-dd7c006d41d45163eed3b29dad06c68a_720w.jpg]]
-*** Meta分析是指对以往的研究结果进行系统定量综合的统计学方法。
+*** Meta分析是指对以往的研究结果进行系统^^定量^^综合的统计学方法。
