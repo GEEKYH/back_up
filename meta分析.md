@@ -1,7 +1,7 @@
 ## 什么是meta分析？
 ### 是一种研究方法
 ### 又叫荟萃分析，二次分析
-### 特点:通过增大样本含量来增加结论的可信度
+###
 ## 举个栗子
 ### [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30c2020_08_16_v2-63df8b50e13ca3b61113f23bfd87534c_720w.jpg?Expires=4751147525&Signature=BTgPTbE~rsrdQmGgQOA53JUI6PurmQqcjEA2mWxsdlOrPoe552Wu5ITf6vDh~aMv1akBSSniuUQ-foZMaxX0iRh9MBx0Npzp55kglcAoqRI~oy-d2ZUaO0j3cGFK-Zkeb91MCM3JAi7-l-9PtgIohB-G-eZLIdZ6KrLevNa9tAw7ED-grr-ARIRbYEt74FkqMfU1QWAPcpyIcW4l9gAyIkyngmQn4BE4Em7JnmElh0jcnnu-hnAuuUX0SLLzC-PmvueWrV5hmrSuubSM~diq-EB5n4dz2cUqJ-ZHtm9skLQWzTwU6UxMBSVF~apwS4BMvn1BCYbA~dSZFXAhe5Np5A__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_16_v2-63df8b50e13ca3b61113f23bfd87534c_720w.jpg]]
 ### 王小帅，30岁，程序员，家境一般，但很有才华，受老板器重，目前在一家创业公司上班，拿着25万的年薪，工作非常努力，每天加班到很晚。
@@ -33,14 +33,15 @@
 #### 软件使用
 #### [[review manage]]
 ### 解释结果、作出结论和评价
+#### 特点:通过增大样本含量来增加结论的可信度
 ### 发表论文、维护和更新资料
 #### 有现成的框架和模板
 #### 实例分析
 #### [[大创]]
 ## feature
 ### 非常流程化的分析
+### 作为二次分析，无需做实验就可以发表论文;
 ### 作为最高级别证据，对临床有指导意义，是临床指南制定的重要依据。
 ### 通过收集高质量文献快速掌握一个领域的研究进展，找到课题方向。
 ### 可练手科研基本技能，如文献检索、数据处理、统计分析、论文写作投稿等。
-### 作为二次分析，无需做实验就可以发表论文;
 ### 部分单位认可作为晋升和毕业的文章。
