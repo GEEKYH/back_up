@@ -1,6 +1,10 @@
 ## 什么是meta分析？
 ### 是一种研究方法
 ### 又叫荟萃分析，二次分析
+## 举个栗子
+### [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30c2020_08_16_v2-63df8b50e13ca3b61113f23bfd87534c_720w.jpg?Expires=4751147525&Signature=BTgPTbE~rsrdQmGgQOA53JUI6PurmQqcjEA2mWxsdlOrPoe552Wu5ITf6vDh~aMv1akBSSniuUQ-foZMaxX0iRh9MBx0Npzp55kglcAoqRI~oy-d2ZUaO0j3cGFK-Zkeb91MCM3JAi7-l-9PtgIohB-G-eZLIdZ6KrLevNa9tAw7ED-grr-ARIRbYEt74FkqMfU1QWAPcpyIcW4l9gAyIkyngmQn4BE4Em7JnmElh0jcnnu-hnAuuUX0SLLzC-PmvueWrV5hmrSuubSM~diq-EB5n4dz2cUqJ-ZHtm9skLQWzTwU6UxMBSVF~apwS4BMvn1BCYbA~dSZFXAhe5Np5A__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_16_v2-63df8b50e13ca3b61113f23bfd87534c_720w.jpg]]
+### 王小帅，30岁，程序员，家境一般，但很有才华，受老板器重，目前在一家创业公司上班，拿着25万的年薪，工作非常努力，每天加班到很晚。
+### 李有钱，33岁，富二代，长得帅，目前在某国企上班，老爸托人安排的职位，15万年薪，工作、生活都比较安逸，有过多次恋爱经历，娱乐生活丰富
 ## 步骤
 ### 选题
 #### ^^非常重要^^
