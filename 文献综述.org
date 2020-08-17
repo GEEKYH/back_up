@@ -2,5 +2,9 @@
 ** *综述、系统性综述、meta分析*的区别和联系
 *** [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30c2020_08_16_v2-dd7c006d41d45163eed3b29dad06c68a_720w.jpg?Expires=4751150552&Signature=N3usPpfL9R6pkb~L6arNsFxxaBmZkwfZgiO59Da2UJSlU4YSuZvf62u8glRk2Rv8DSOErD7oBwzoyQVZda0ZgHHIUZzV0xHDcwZl92UK92kiTJmk5ahQQELi9vAOmUkYQXo6pd5ZkPhB~OVseTLYUI9QYdUGBa9mMtC9TOQp1BqpRI2Yy6ZqUdVvA674W57NSeZGz1rKJxkRl~wibklBdiUffkWdd7xQ~dZQ1NFIogo6KKnMgu1qLPgNulByGoaHKCBJVC~LRoU6RNAzQdcn-7cQTmT91wqlD5JXWRRvSG~Kr8Rd7aH90uV6K00pgyR63shJUHejZ6x6FZjIGoVLXg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_16_v2-dd7c006d41d45163eed3b29dad06c68a_720w.jpg]]
 *** Systematic Review有非常严格的检索、选择、评价标准，review通常没有；
+   :PROPERTIES:
+   :CUSTOM_ID: 5f38b2b5-f45c-4606-b219-0531ac5fc488
+   :END:
 *** Systematic Review如果原始文献具有有效数据、研究结果相似，就可以考虑进行定量分析，也就是Meta分析，相反，如果条件不符合就只能定性分析，review只能定性分析。
 *** [[meta分析]] 是指对以往的研究结果进行系统^^定量^^综合的统计学方法。
+*** {{{embed ((5f38b2b5-f45c-4606-b219-0531ac5fc488)) }}}
