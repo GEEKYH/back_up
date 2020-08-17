@@ -4,6 +4,6 @@
 ** 《Building Great Sentences》
 ** 句子的深层结构
 ** [[长难句]]的组合方式
-*** 第一种，也是我们最长见到的长难句形式，叫做connective，连接式。通过连词将不同的深层结构中的观点所放在一起。常见的连词包括and, but, so 等等
+*** 第一种，也是我们最长见到的长难句形式，叫做connective，连接式。通过连词将不同的深层结构中的观点所放在一起。常见的[[连词]]包括and, but, so 等等
 *** 第二种是我们最怕的长难句形式，叫做subordinate，通过从句连接。在我个人的经验之中，通过从句所搭建的长难句往往是不太好理解的，而也容易犯下大量的语法错误。所以，我个人的建议依旧是避免用从句搭建长难句，除非会使句子更加清晰。
 *** 第三种则是兰登所提倡的长难句形式，叫做^^free modifiers^^，例子如下：He went to speak to Mrs. Bean, tiny among the pillows, small toothless mouth open like an O, skin stretched thin and white over her bone.
