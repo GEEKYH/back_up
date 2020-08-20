@@ -1,0 +1,284 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://logseq.com",
+  "elements": [
+    {
+      "id": "0gTxgr7ukUxJdZ4ZhIo8C",
+      "type": "draw",
+      "x": 290.4000549316406,
+      "y": 256.2000122070312,
+      "width": 172,
+      "height": 219.20001220703125,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1558267473,
+      "version": 95,
+      "versionNonce": 1230941905,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -0.79998779296875,
+          1.600006103515625
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          16,
+          16.800033569335938
+        ],
+        [
+          24.79998779296875,
+          20
+        ],
+        [
+          51.20001220703125,
+          25.600006103515625
+        ],
+        [
+          86.39996337890625,
+          29.600006103515625
+        ],
+        [
+          100,
+          29.600006103515625
+        ],
+        [
+          68.79998779296875,
+          45.600006103515625
+        ],
+        [
+          33.5999755859375,
+          60.80003356933594
+        ],
+        [
+          1.5999755859375,
+          78.39999389648438
+        ],
+        [
+          16.79998779296875,
+          76.80001831054688
+        ],
+        [
+          28.79998779296875,
+          76.80001831054688
+        ],
+        [
+          40.79998779296875,
+          81.60000610351562
+        ],
+        [
+          48.79998779296875,
+          88
+        ],
+        [
+          40.79998779296875,
+          96.80001831054688
+        ],
+        [
+          28,
+          100.80001831054688
+        ],
+        [
+          32,
+          91.20001220703125
+        ],
+        [
+          71.99996948242188,
+          219.20001220703125
+        ],
+        [
+          61.5999755859375,
+          80.80001831054688
+        ],
+        [
+          80.79998779296875,
+          80.80001831054688
+        ],
+        [
+          97.5999755859375,
+          87.20001220703125
+        ],
+        [
+          96,
+          89.60000610351562
+        ],
+        [
+          83.20001220703125,
+          100
+        ],
+        [
+          79.20001220703125,
+          101.60000610351562
+        ],
+        [
+          96,
+          96.80001831054688
+        ],
+        [
+          171.20001220703125,
+          120.80001831054688
+        ],
+        [
+          151.20001220703125,
+          130.39999389648438
+        ],
+        [
+          136,
+          132.80001831054688
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "JC9oHD5UTyawV9GSz9PmW",
+      "type": "line",
+      "x": 527.2000122070312,
+      "y": 238.6000518798828,
+      "width": 88,
+      "height": 202.3999786376953,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 673361073,
+      "version": 30,
+      "versionNonce": 1634721375,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          88,
+          202.3999786376953
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "A8YF95_0bxmGXegkDbGN8",
+      "type": "ellipse",
+      "x": 716.7999877929688,
+      "y": 173,
+      "width": 227.20001220703125,
+      "height": 265.6000061035156,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 767736447,
+      "version": 23,
+      "versionNonce": 923674591,
+      "isDeleted": false
+    },
+    {
+      "id": "shE1ZF4rq_Ob2vUqYH3JN",
+      "type": "rectangle",
+      "x": 1042.4000854492188,
+      "y": 124.20001220703125,
+      "width": 440.79998779296875,
+      "height": 140.00001525878906,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 467391487,
+      "version": 39,
+      "versionNonce": 76060177,
+      "isDeleted": false
+    },
+    {
+      "id": "_VV-bd84-i9Qo12xQbt0V",
+      "type": "text",
+      "x": 1108,
+      "y": 159.10000610351562,
+      "width": 60,
+      "height": 32,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 2125704049,
+      "version": 11,
+      "versionNonce": 1818584273,
+      "isDeleted": false,
+      "text": "你以为",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 23
+    },
+    {
+      "id": "xZH7u2KfY0h7ksn4DBXLa",
+      "type": "arrow",
+      "x": 1016.7999877929688,
+      "y": 145,
+      "width": 83.199951171875,
+      "height": 82.40000915527344,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1692574385,
+      "version": 11,
+      "versionNonce": 1242682385,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -83.199951171875,
+          82.40000915527344
+        ]
+      ],
+      "lastCommittedPoint": null
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#FFF",
+    "gridSize": null
+  }
+}
