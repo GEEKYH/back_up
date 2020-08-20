@@ -11,3 +11,6 @@
 *** #+BEGIN_QUERY
 abc
 #+END_QUERY
+*** #+BEGIN_TIP
+赛风
+#+END_TIP
