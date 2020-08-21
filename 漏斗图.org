@@ -2,3 +2,6 @@
 ** 漏斗图的横坐标为原研究的效应量，若为连续性变量可直接用原始测量值，若为关联性指标可用对数转换后的值。纵坐标为原研究的样本量，或标准误或精确度(标准误的倒数)。
 ** 样本量越小，分布越分散;样本量大,分布集中。若没有偏倚，呈对称的漏斗状。相反，图形不对称有偏向，表示存在偏倚。
 *** [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30c2020_08_15_c0e4c646c850ad02de804157%20%281%29.jpg?Expires=4751077648&Signature=gs6jxKLpKAqOtugB68Ysw-pC-1tum1LQ5hw0IxynlotTpLkhfqLYhYvIHnNbAmlTelyv5lar8j3-UCxAmilg0y21tAeuFoD6Qc3jkaylCuHXT6NjO3DVFM4N0VjPZr8LUDpwk8YzmyvJeYEsWEXKScCRp6XWuN0R1AeVAZo33Bn5kV4i76NM32scqvQ7Ux7vUleyYk9557Co96J-oXVL21ZJGO-taPPyrWBNe0UEWRZnQzTusCgfgCLbpLuC42-jyutVwDwO7KYGbcwsim88Gdt5P1YSSksN5GM~H4Ww8-c6FoG~-SDee-LalwjD7E5cTnxyPOFA2jyQO6XBROT7Dw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_15_c0e4c646c850ad02de804157 (1).jpg]]
+   :PROPERTIES:
+   :CUSTOM_ID: 5f3f7d68-509d-42cc-82bd-1ad39e561d3a
+   :END:
