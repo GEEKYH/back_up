@@ -195,11 +195,6 @@ RS EZ构型写在最前面，用（R）-  表示。记得这根横线
 * Aug 23rd, 2020
 * Aug 24th, 2020
 * Aug 25th, 2020
-** sdf sd
-** sd
-** sdfdsfs
-**
-** fdsd a
 **
 * Aug 26th, 2020
 * Aug 27th, 2020
