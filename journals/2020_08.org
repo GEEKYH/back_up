@@ -197,6 +197,8 @@ RS EZ构型写在最前面，用（R）-  表示。记得这根横线
 * Aug 25th, 2020
 ** endnote
 * Aug 26th, 2020
+** a new day!
+**
 * Aug 27th, 2020
 * Aug 28th, 2020
 * Aug 29th, 2020
