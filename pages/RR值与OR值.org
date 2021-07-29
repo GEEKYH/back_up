@@ -18,4 +18,4 @@
 * *队列研究中RR值的计算*
 *
 * *RR = 暴露组发病率/非暴露组发病率 = (a/(a+b)) ÷ (c/(c+d))*
-*
+* [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30c1aadfd34-0be0-469a-ae74-c2c4f3a938b52021_07_30_image.png?Expires=4781184154&Signature=N-MGYEl45KPmy1oEojebQ42O-u3HXyWp7tUi1wNdv3S1YsX87NSJjQcyJQ6Gf2kfGPykkP9JBQiOBP91466B2Q16U8tPflzjmLS8fsr03mpqflVq-KMorVMdxm2nbTp3UYgRqcEHr71t1kLWr4ErZKnq7gPQMedWZpwiVPvWm0C83Dh46rkiNirrgxizLCaYnAPI3bOSr6XsffzAhVdHwiCoAdb3nU3oi7daVLQ1suKvNeEB4HaSd1D1lVvqTwFUpk2P9BA9xABHg0kAHxsyOvzWiIFXulcxrHkvjBj2~V6StOiy3VBzuHGcnNUH6CA5OfMtUpIDAJVKnK3mD7FOfg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]
