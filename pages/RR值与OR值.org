@@ -17,8 +17,8 @@
 ** [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30c7d4c7d3a-27a0-4b6e-9d56-7b9752fe8b012021_07_30_image.png?Expires=4781183951&Signature=CMVplVAd24pn~EjN3UGwjnRvOocSmdwMo2aD1Gz4Uu3z6JbW4-vg88xAY5PSwXFDCiIJP0zNLXDhil~-fPupsv3QfXLG0~r6rW9QI-9bXPAQZlTK4oKYxS16OPeO62VWzRd-u-RO-~Mdmi4iys1ezhibYwdHfMgNEOusZsrkQNNTbVGGy0ySwXFWKUHGTIAb3dctn3upIGMABeS-W2kvh1a5zTEjcfNHcYMtGlEZdQPG~fWfxoN3FeHqz8Jt2ml4CQyEQF~sAaZEIxVT0WW1s-9fnY0RbabkfeBuLHx82JlGdzR21dQjmzm0jyK1LYEzpO8VA0ZP1i7QQOKA0uGKGA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]
 * *队列研究中RR值的计算*
 *
-* *RR = 暴露组发病率\/非暴露组发病率 
-(a/(a+b)) ÷ (c/(c+d))*
+* RR = 暴露组发病率\/非暴露组发病率 
+*(a/(a+b)) ÷ (c/(c+d))*
 * *文献分享*
 ** 甲氨蝶呤和柳氮磺吡啶 
 治疗强直性脊柱炎
