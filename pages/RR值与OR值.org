@@ -12,7 +12,7 @@
 （Relative Risk, 相对危险度）。
 * [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30ca452ea59-3ba4-4157-a1c4-d8ebab895e882021_07_30_image.png?Expires=4781183188&Signature=VI07P~US-THRIfamexzbcFtnsidmfg6Mqr3NhexX8-mJBVfUc6SdIbJknL8MYcElTkSm8O9ZqUTYd5TCDevZDil-WetBqOKZ9--6ArAfPFcuYoLnIZqsaqMbnFLq9UYIhugVkr3zp3ZdI9T8STfa4kJL4K3mPwqqExM1rcHGtK3ttj-g8lGv~OI0uh3lB~eRSqlrJnIAk87BgtPlB1Pxcd-aGBzPajNftjkN~JkAw2WvRFaLn5kclD-goaphpHd9mf9byEvHHY33FXsjtp3kfEwjE9okK0glHV4A~KcuNb267cercnE~HrkbyFbeASvQXTJTwJMbH-3J8v7jUwIb-A__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]
 * *RR值及其意义*
-**
+** [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30cea625b5e-a3d0-46f5-9179-f95c9e7195332021_07_30_image.png?Expires=4781183895&Signature=cWxj4dX31mtsRTuzhBbVakcdNgy2abaVugD9WXV~1xvMWbPXuPj7x5or-mzbFSyFgQAKoZ1NzbQrO0QlVJkaMaem5zIiWjXGf307FG5lpC4XpLtMf8i1CYO0Ap5LNohW8xfDd8RggwDTY-ST8q~pnzxk5F6d4Tbp9~he556KQY7PBcSSlBYbXlZ7nHCZQgcGt~nK~Wvu2Klmsj78YpQf-qXwbXbe~vZkYQotOg3oPK6gt3K81txW4Qa-FyYdWol3u2t9F-kBbKqc5mbHcG6XEjRVRNbQV2RiL46NecU1a0~ofz~myQsWXL40rM1zU0cWM71q5diiNdMMLAX~LNYPjg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]
 * *队列研究中RR值的计算*
 *
 * *RR = 暴露组发病率/非暴露组发病率 = (a/(a+b)) ÷ (c/(c+d))*
