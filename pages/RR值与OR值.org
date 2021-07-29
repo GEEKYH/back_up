@@ -1,7 +1,8 @@
 * RR值与OR值
 ** 暴露，是指具有某项特征（如年龄、性别等）、某行为（如吸烟、高脂饮食等）或接触某种待研究的物质（如雾霾、重金属等））
 * 当我们开展一项队列研究时，我们要回答的问题是：
-** 暴露组研究对象的发病风险是非暴露组研究对象的多少倍？这个“多少倍”就是我们常说的RR（Relative Risk, 相对危险度）。
+** 暴露组研究对象的发病风险是非暴露组研究对象的多少倍？
+** 这个“多少倍”就是我们常说的RR（Relative Risk, 相对危险度）。
 *
 * [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30ca452ea59-3ba4-4157-a1c4-d8ebab895e882021_07_30_image.png?Expires=4781183188&Signature=VI07P~US-THRIfamexzbcFtnsidmfg6Mqr3NhexX8-mJBVfUc6SdIbJknL8MYcElTkSm8O9ZqUTYd5TCDevZDil-WetBqOKZ9--6ArAfPFcuYoLnIZqsaqMbnFLq9UYIhugVkr3zp3ZdI9T8STfa4kJL4K3mPwqqExM1rcHGtK3ttj-g8lGv~OI0uh3lB~eRSqlrJnIAk87BgtPlB1Pxcd-aGBzPajNftjkN~JkAw2WvRFaLn5kclD-goaphpHd9mf9byEvHHY33FXsjtp3kfEwjE9okK0glHV4A~KcuNb267cercnE~HrkbyFbeASvQXTJTwJMbH-3J8v7jUwIb-A__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]
 * *RR值及其意义*
