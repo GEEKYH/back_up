@@ -35,7 +35,10 @@
 来发现某一规律的研究
 ** *回顾性研究*：指研究者根据以往的临床病例资料来总结某一规律的研究
 ** [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30c65747931-30e1-493f-a2c0-347fdee4c8762021_07_30_image.png?Expires=4781245265&Signature=HBQGLfz7inO2yMv1U0DcxHhufpiOhuZsxlrSanEiNfPEA5vDeNqDtdXfWtMPGXw6WC5HXMcDJC0qPHyx8K8OaUuubhD1aUO6mTE~CoJb~xw0zkGROMzz9xijm35I7hl~RMJfZxthWziYVhNJsr3~3drDs0PQBcee4xsWjMMcrsw1LFY~JMokSJhwYIQCRx5ovj5T8W2luvwWxm1Dttek0UaYtEW2rwiwe4teaHTCIQ8080PfNtUUDfVVkPRGA6VLYgx6ofao0wTTRdZ99c54X~TnFSAZCptyWgPw7H3CTTl7~vqQXdDlGdO8~EB54qmrOtMHTyaN-S-4co9p6bikjA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]
-** 为了研究吸烟和患上肺癌之间有多大关系，我们可以分别患病组的吸烟比、不患病组的吸烟比，再将两者进行比较。
+** 为了研究吸烟和患上肺癌之间有多大关系，
+我们可以分别计算
+患病组的吸烟比、不患病组的吸烟比，
+再将两者进行比较。
 ** *用公式表示即为：OR = (a/c) / (b/d)*
 * *文献分享*
 ** 甲氨蝶呤和柳氮磺吡啶 
