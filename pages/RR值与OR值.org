@@ -32,7 +32,7 @@
 ** [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30cea625b5e-a3d0-46f5-9179-f95c9e7195332021_07_30_image.png?Expires=4781183895&Signature=cWxj4dX31mtsRTuzhBbVakcdNgy2abaVugD9WXV~1xvMWbPXuPj7x5or-mzbFSyFgQAKoZ1NzbQrO0QlVJkaMaem5zIiWjXGf307FG5lpC4XpLtMf8i1CYO0Ap5LNohW8xfDd8RggwDTY-ST8q~pnzxk5F6d4Tbp9~he556KQY7PBcSSlBYbXlZ7nHCZQgcGt~nK~Wvu2Klmsj78YpQf-qXwbXbe~vZkYQotOg3oPK6gt3K81txW4Qa-FyYdWol3u2t9F-kBbKqc5mbHcG6XEjRVRNbQV2RiL46NecU1a0~ofz~myQsWXL40rM1zU0cWM71q5diiNdMMLAX~LNYPjg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]
 ** *前瞻性研究*：指研究者通过设计、进行实验
 来发现某一规律的研究
-** 回顾性研究：指研究者根据以往的临床病例资料来总结某一规律的研究
+** *回顾性研究*：指研究者根据以往的临床病例资料来总结某一规律的研究
 * *文献分享*
 ** 甲氨蝶呤和柳氮磺吡啶 
 治疗强直性脊柱炎
