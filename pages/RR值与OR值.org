@@ -18,7 +18,10 @@
 * 以最常见的“吸烟—肺癌”试验为例
 ** [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30cf0c236e9-7f04-4d02-9828-3e7865062e3c2021_07_30_image.png?Expires=4781242284&Signature=OlD3W3FFBS6myGKZur7zSR1eptm0K-lUMTGiqxggKaCNRcBqAOh2qJNifCOnnsjZm~jskc9bVLv3O2w22MlPBmd4jZesB7uECiMB6jy62XlgxbJQp8n-UF8AHHS6jBaC6tSck90xboO7N8KEnO~BDcXEN1wSKVoaB22r-g-PvkciOwfNS75qu2MP6JBLuqAoem4P4FHJuPjUhXhouecQU6Qd4s8Dcgs-ClUu7~7NELp3jMlljbW~-siMs0-q9vU1J7IV70wXodO9zFxdU7opECfxcfi26EYBX6oeWpqaFLunPd~EElBsUhnVhpwVwNX76WkWMg9A-T4lbgpS9q4qsg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]
 ** 了研究吸烟这一因素对于
-患肺癌这一事件结果发生有多大影响，我们可以分别计算吸烟组的患癌率、不吸烟组的患癌率，再将两者进行比较。
+患肺癌这一事件结果发生有多大影响，
+我们可以分别计算
+吸烟组的患癌率、不吸烟组的患癌率，
+再将两者进行比较。
 * *队列研究中RR值的计算*
 ** RR = 暴露组发病率\/非暴露组发病率 
 *(a\/(a+b)) ÷ (c/(c+d))*
