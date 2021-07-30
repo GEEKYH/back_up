@@ -30,6 +30,8 @@
 * *RR值结果的意义*
 ** [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30c7d4c7d3a-27a0-4b6e-9d56-7b9752fe8b012021_07_30_image.png?Expires=4781183951&Signature=CMVplVAd24pn~EjN3UGwjnRvOocSmdwMo2aD1Gz4Uu3z6JbW4-vg88xAY5PSwXFDCiIJP0zNLXDhil~-fPupsv3QfXLG0~r6rW9QI-9bXPAQZlTK4oKYxS16OPeO62VWzRd-u-RO-~Mdmi4iys1ezhibYwdHfMgNEOusZsrkQNNTbVGGy0ySwXFWKUHGTIAb3dctn3upIGMABeS-W2kvh1a5zTEjcfNHcYMtGlEZdQPG~fWfxoN3FeHqz8Jt2ml4CQyEQF~sAaZEIxVT0WW1s-9fnY0RbabkfeBuLHx82JlGdzR21dQjmzm0jyK1LYEzpO8VA0ZP1i7QQOKA0uGKGA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]
 ** [[https://cdn.logseq.com/%2Ff259ad6a-7523-4e5e-8743-1a033751e30cea625b5e-a3d0-46f5-9179-f95c9e7195332021_07_30_image.png?Expires=4781183895&Signature=cWxj4dX31mtsRTuzhBbVakcdNgy2abaVugD9WXV~1xvMWbPXuPj7x5or-mzbFSyFgQAKoZ1NzbQrO0QlVJkaMaem5zIiWjXGf307FG5lpC4XpLtMf8i1CYO0Ap5LNohW8xfDd8RggwDTY-ST8q~pnzxk5F6d4Tbp9~he556KQY7PBcSSlBYbXlZ7nHCZQgcGt~nK~Wvu2Klmsj78YpQf-qXwbXbe~vZkYQotOg3oPK6gt3K81txW4Qa-FyYdWol3u2t9F-kBbKqc5mbHcG6XEjRVRNbQV2RiL46NecU1a0~ofz~myQsWXL40rM1zU0cWM71q5diiNdMMLAX~LNYPjg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]
+** *OR值*
+** *用公式表示即为：OR = (a/c) / (b/d)*
 ** *前瞻性研究*：指研究者通过设计、进行实验
 来发现某一规律的研究
 ** *回顾性研究*：指研究者根据以往的临床病例资料来总结某一规律的研究
