@@ -1,5 +1,5 @@
 * ## 药物化学
-** 这是一个 {{cloze 天空}}，这是 {{cloze 地点}}
+** 这是一个 {{cloze 天空}}，这是 {{cloze 地点}} #card
 :PROPERTIES:
 :background-color: #264c9b
 :END:
